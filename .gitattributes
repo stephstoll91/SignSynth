@@ -1,0 +1,4 @@
+*.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+SignSynth/gloss2pose/training/*.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+SignSynth/gloss2pose_pytorch/data/*.npz filter=lfs diff=lfs merge=lfs -text
+gloss2pose_pytorch/data/*.npz filter=lfs diff=lfs merge=lfs -text

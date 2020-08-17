@@ -1,0 +1,7 @@
+*.pyc
+.idea
+condor_files/*
+test/*
+training/*
+log/*
+.idea/*
