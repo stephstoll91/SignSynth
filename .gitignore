@@ -1,0 +1,11 @@
+gloss2pose/*.pyc
+pose2video/*.pyc
+pose2video/util/*.pyc
+pose2video/util/__pycache__/
+pose2video/scripts/scripts/checkpoints/ 
+pose2video/options/*.pyc
+pose2video/options/__pycache__/
+pose2video/models/*.pyc
+pose2video/models/__pycache__/
+pose2video/data/*.pyc
+pose2video/data/__pycache__/
