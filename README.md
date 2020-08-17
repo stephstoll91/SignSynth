@@ -10,10 +10,15 @@ I will clean up this repository in the next few weeks.
 If you are using the code please cite:
 
 @inproceedings{Stoll_AVCR2020,
+
 author = {Stoll, Stephanie and Hadfield, Simon and Bowden, Richard},
+
 title = {SignSynth: Data-Driven Sign Language Video Generation},
+
 booktitle  = {ECCV 2020 Workshop Proceedings},
+
 year = {2020}
+
 }
 
 
