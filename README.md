@@ -8,18 +8,14 @@ gloss2pose was originally written in tensorflow and later ported to pytorch. For
 I will clean up this repository in the next few weeks. 
 
 If you are using the code please cite:
+```
 
 @inproceedings{Stoll_AVCR2020,
-
 author = {Stoll, Stephanie and Hadfield, Simon and Bowden, Richard},
-
 title = {SignSynth: Data-Driven Sign Language Video Generation},
-
 booktitle  = {ECCV 2020 Workshop Proceedings},
-
 year = {2020}
-
 }
-
+```
 
 pose2video includes files from pix2pixHD. Please check out their repository: https://github.com/NVIDIA/pix2pixHD
